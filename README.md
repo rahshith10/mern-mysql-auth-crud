@@ -76,12 +76,12 @@ This is a full-stack web application built using React, Node.js, Express, and My
 
 ## 📸 Screenshots
 
-![Login](screenshots/login.png)
-![Register](screenshots/register.png)
-![Dashboard](screenshots/dashboard.png)
-![Items](screenshots/items.png)
-![Users](screenshots/users.png)
-![CRUD](screenshots/CRUD.png)
+![Login](Screenshots/login.png)
+![Register](Screenshots/register.png)
+![Dashboard](Screenshots/dashboard.png)
+![Items](Screenshots/items.png)
+![Users](Screenshots/users.png)
+![CRUD](Screenshots/CRUD.png)
 
 ---
 
