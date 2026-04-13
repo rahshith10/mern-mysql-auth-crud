@@ -96,4 +96,4 @@ This is a full-stack web application built using React, Node.js, Express, and My
 
 ## 📂 GitHub Repository
 
-(Add your GitHub link here)
+https://github.com/rahshith10/mern-mysql-auth-crud
